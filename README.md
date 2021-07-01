@@ -1,2 +1,2 @@
 # Flight Price Prediction using Machine learning.
-Flight Price Prediction
+Lowest Flight Price Prediction
